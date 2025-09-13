@@ -26,5 +26,125 @@
       "name": "百度资源",
       "is_adult": false
     }
+    "duboku": {
+    "api": "https://www.duboku.tv/api.php/provide/vod",
+"name": "独播库",
+"detail": "https://www.duboku.tv",
+"is_adult": false
+},
+"mypianku": {
+"api": "https://www.mypianku.net/api.php/provide/vod",
+"name": "片库",
+"detail": "https://www.mypianku.net",
+"is_adult": false
+},
+"dybee": {
+"api": "https://www.dybee.tv/api.php/provide/vod",
+"name": "电影蜜蜂",
+"detail": "https://www.dybee.tv",
+"is_adult": false
+},
+"juhi": {
+"api": "https://www.juhi.cc/api.php/provide/vod",
+"name": "剧嗨影院",
+"detail": "https://www.juhi.cc",
+"is_adult": false
+},
+"o8tv": {
+"api": "https://www.o8tv.com/api.php/provide/vod",
+"name": "555电影网",
+"detail": "https://www.o8tv.com",
+"is_adult": false
+},
+"dsdytv": {
+"api": "https://dsdytv.com/api.php/provide/vod",
+"name": "大大影院",
+"detail": "https://dsdytv.com",
+"is_adult": false
+},
+"fofoyy": {
+"api": "https://www.fofoyy.com/api.php/provide/vod",
+"name": "FoFo影院",
+"detail": "https://www.fofoyy.com",
+"is_adult": false
+},
+"ole_tv": {
+"api": "https://www.ole.tv/api.php/provide/vod",
+"name": "欧乐影院",
+"detail": "https://www.ole.tv",
+"is_adult": false
+},
+"hohotv": {
+"api": "https://www.hohotv.com/api.php/provide/vod",
+"name": "HOHO TV",
+"detail": "https://www.hohotv.com",
+"is_adult": false
+},
+"apibdzy": {
+"api": "https://api.apibdzy.com/api.php/provide/vod",
+"name": "阿派播放器源",
+"detail": "https://api.apibdzy.com",
+"is_adult": false
+},
+"hongniuzy": {
+"api": "https://www.hongniuzy2.com/api.php/provide/vod",
+"name": "红牛资源",
+"detail": "https://www.hongniuzy2.com",
+"is_adult": false
+},
+"lziapi": {
+"api": "https://cj.lziapi.com/api.php/provide/vod",
+"name": "量子资源",
+"detail": "https://cj.lziapi.com",
+"is_adult": false
+},
+"onrender_vod": {
+"api": "https://vod-demo.onrender.com/pubdovod.php",
+"name": "开放电影",
+"detail": "https://vod-demo.onrender.com",
+"is_adult": false
+},
+"1080zyku": {
+"api": "https://api.1080zyku.com/inc/api.php/provide/vod",
+"name": "优质资源库",
+"detail": "https://api.1080zyku.com",
+"is_adult": false
+},
+"39kan": {
+"api": "https://www.39kan.com/api.php/provide/vod",
+"name": "39影视",
+"detail": "https://www.39kan.com",
+"is_adult": false
+},
+"vipmv": {
+"api": "http://vipmv.cc/api.php/provide/vod",
+"name": "天堂资源",
+"detail": "http://vipmv.cc",
+"is_adult": false
+},
+"lehootv": {
+"api": "https://lehootv.com/api.php/provide/vod",
+"name": "乐活影视",
+"detail": "https://lehootv.com",
+"is_adult": false
+},
+"tangrenjie": {
+"api": "https://www.tangrenjie.tv/api.php/provide/vod",
+"name": "唐人街",
+"detail": "https://www.tangrenjie.tv",
+"is_adult": false
+},
+"kuapi": {
+"api": "https://api.kuapi.cc/api.php/provide/vod",
+"name": "酷点资源",
+"detail": "https://api.kuapi.cc",
+"is_adult": false
+},
+"wolongzyw": {
+"api": "https://collect.wolongzyw.com/api.php/provide/vod",
+"name": "卧龙资源",
+"detail": "https://collect.wolongzyw.com",
+"is_adult": false
+}
   }
 }
